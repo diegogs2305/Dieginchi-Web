@@ -9,5 +9,19 @@ Hello and welcome to my Web Page, in this web you will see and do a lot of thing
   
 Some of the things I have planeed are: 
 
+<h1>
+•	
+•	gffg
+•	Ggfg
+•	gffg
+•	Ggfg
+•	gffg
+•	Ggfg
+•	gffg
+
+<h1>
+
+
+
 
 
