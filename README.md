@@ -21,12 +21,10 @@ Some of the things I have planeed are:
 
 
 
-
-
 •	A future app for android with Chat GPT and translator...
 
 
-#And more futures in the future!!!
+# And more things in the future!!!
 
 
 
