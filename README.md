@@ -11,25 +11,22 @@ Some of the things I have planeed are:
 
 
 
-•	gffg
+•	A login and register system that almacened your aocunt on your local Storge
 
   
-•	Ggfg
+•	Some videogames created by Python and Scratch
 
 
-•	gffg
+•	A ChatBot with AI created by Jootform AI and another chatbot with Diagflow 
 
 
-•	Ggfg
 
 
-•	gffg
+
+•	A future app for android with Chat GPT and translator...
 
 
-•	Ggfg
-
-
-•	gffg
+#And more futures in the future!!!
 
 
 
